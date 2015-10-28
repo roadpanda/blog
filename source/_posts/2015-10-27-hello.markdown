@@ -1,7 +1,0 @@
----
-layout: post
-title: "hello"
-date: 2015-10-27 15:51:04 +0530
-comments: true
-categories: 
----

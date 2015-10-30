@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://roadpandatest.herokuapp.com/blog/atom.xml" rel="self"/>
-  <link href="http://roadpandatest.herokuapp.com/blog/"/>
-  <updated>2015-10-28T15:33:53+05:30</updated>
-  <id>http://roadpandatest.herokuapp.com/blog/</id>
+  <title><![CDATA[Roadpanda]]></title>
+  <link href="http://www.roadpanda.com/blog/atom.xml" rel="self"/>
+  <link href="http://www.roadpanda.com/blog/"/>
+  <updated>2015-10-30T10:13:58+05:30</updated>
+  <id>http://www.roadpanda.com/blog/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[admin]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>

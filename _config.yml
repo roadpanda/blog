@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://roadpandatest.herokuapp.com/blog
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://www.roadpanda.com/blog
+title: Roadpanda
+subtitle: Bikes for rent in bangalore
+author: admin
 simple_search: https://www.google.com/search
 description:
 

@@ -1,4 +1,5 @@
 .bundle
+.config.ru
 .DS_Store
 .sass-cache
 .gist-cache

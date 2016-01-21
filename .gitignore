@@ -11,3 +11,5 @@ source/stylesheets/screen.css
 vendor
 node_modules
 Gemfile.lock
+source/Thumbs.db
+public/blog/stylesheets/screen.css
